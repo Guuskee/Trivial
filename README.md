@@ -1,25 +1,31 @@
-# LARGE HEADING
-## smaller heading
+# Hallo Daar
+## Ik ben Guus,
+### De tekst die hier staat wordt steeds kleiner
+#### Dat komt omdat ik er telkens meer hekjes voor zet
+##### Dat kan zelfs tot aan *5* hekjes
+###### Gozer, het kan **zelfs met _ZES_**
 
-**dubbele sterretjes**
-*enkel*
+Niet te geloven | Broodjes | Bak je
+ --- | --- | ---
+IN | EEN | `oven`|
 
-- unordered
-- list
--werktditook?
+Even vergeten wat die ~tildes~ doen
 
-1. ordered list
-2. zeker
-3.echtwaar
+___
 
-`code`
+Hierboven zou in ieder geval een lijntje moeten staan
 
-```
-CODEBLOK
-IN YOUR FACE
-FAGBOI
-```
+___
 
-[link](https://www.nu.nl)
+> Dit zou ook iets moeten doen, volgens mij wordt eht gewoon een teringlange quote. We gaan het zien.
 
+
+> En dit dan ook iets
+> In combinatie met dit
+
+Mooi zal dit document niet zijn, maar ik heb in ieder geval
+
+
+[Dit wordt een link naar Wikipedia](https://wikipedia.org)
+![MICHAEL JACKSON](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michael_Jackson_Cannescropped.jpg/170px_Michael_Jackson_Cannescropped.jpg
 
