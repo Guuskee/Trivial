@@ -27,5 +27,6 @@ Mooi zal dit document niet zijn, maar ik heb in ieder geval
 
 
 [Dit wordt een link naar Wikipedia](https://wikipedia.org)
-![MICHAEL JACKSON](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michael_Jackson_Cannescropped.jpg/170px-Michael_Jackson_Cannescropped.jpg
+
+![MICHAEL JACKSON](upload.wikimedia.org/wikipedia/commons/thumb/4/43/Michael_Jackson_Cannescropped.jpg/170px-Michael_Jackson_Cannescropped.jpg
 
